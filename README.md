@@ -1,1 +1,1 @@
-# frontendinteraction
+A html, css, javascript website highlighting a dshboard with certain alightments. As well with information and buttons. Buttons are clickable. To the extent you can click on the button but it won't take you to another page.
